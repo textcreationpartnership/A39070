@@ -1,0 +1,625 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Expert gardener, or, A treatise containing certaine necessary, secret, and ordinary knowledge in grafting and gardening with divers proper new plots for the garden, also sundry expert directions to know the time and season when to sow and replant all manner of seeds : with divers remedies to destroy snailes, canker-wormes, moths, garden-fleas, earth-wormes, moles, and other vermine / faithfully collected out of sundry Dutch and French authors.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39070</idno>
+            <idno type="STC">Wing E3881</idno>
+            <idno type="STC">ESTC R40195</idno>
+            <idno type="EEBO-CITATION">18775177</idno>
+            <idno type="OCLC">ocm 18775177</idno>
+            <idno type="VID">108292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108292)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1652:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Expert gardener, or, A treatise containing certaine necessary, secret, and ordinary knowledge in grafting and gardening with divers proper new plots for the garden, also sundry expert directions to know the time and season when to sow and replant all manner of seeds : with divers remedies to destroy snailes, canker-wormes, moths, garden-fleas, earth-wormes, moles, and other vermine / faithfully collected out of sundry Dutch and French authors.</title>
+               </titleStmt>
+               <extent>[2], 54 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Hunt,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gardening --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108292:1"/>
+            <pb facs="tcp:108292:1"/>
+            <p>The expert Gardener: OR, A Treatiſe containing certaine ne<g ref="char:EOLhyphen"/>ceſſary, ſecret, and ordinary knowledge, in Grafting and Gardening; with divers proper new Plots for the Garden. Alſo ſundry expert directions to know the time and ſeaſon when to ſow and replant all manner of Seeds. With divers remedies to deſtroy Snailes, Canker-wormes, Moths, Garden-Fleas, Earth-wormes, Moles, and other Vermine. <hi>Faithfully collected out of ſundry Dutch and French Authors.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>William Hunt.</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:108292:2"/>
+            <pb n="1" facs="tcp:108292:2"/>
+            <div type="part">
+               <head>Certaine common Instructions how the Stumpe muſt be choſen whereupon you will graffe or plant.</head>
+               <p>
+                  <seg rend="decorInit">E</seg>Very diligent Houſholder who will plant, ſhould uſe thereto a convenient place, to the end, that the wild beaſt chaw not, nor paire the plants; or if they be young, wholly eat in pieces; which to avoid, is needfull to be in a towne or cloſed Orchard, where there is not too much ſhadow, but a ſweet ground well muckt, tilled and turned.</p>
+               <div type="section">
+                  <head>Every Plant will have foure things.</head>
+                  <p>Firſt moiſtneſſe, ſo that the ſeeds or ſtumpe bee moiſt or green.</p>
+                  <p>Secondly, a convenient place, which hath ſuch earth as will lightly be rubbed to pouder, and that Sun may come to it; for where there is filthy lome, a lean ground, or ſandy, dry, burnt, or ſalt ground, there is nothing good to be planted, to have any continuance; nevertheleſſe where the ground is lean, there you muſt give more dung; in a fat ground not ſo much. Take heed the ground be not too moiſt
+<pb n="2" facs="tcp:108292:3"/> nor too dry; and muck the trees with hogs dung.</p>
+                  <p>Thirdly, a mediate water or nouriſhing moiſtneſs, therefore be thoſe Orchards beſt which are ſcituated between two waters; for thoſe that are placed by a water ſide, remaine ſtill young and fruitfull, and have commonly the bark ſmoother and thinner than the others. And thoſe trees are more fruitful then others which are planted in a vally, or in the lower part of a deep hill; for from thoſe hils may come to them nouriſhment and moiſtneſs, and the ground which is ſo ſcituated is very fruitfull. But he that cannot get for his trees ſuch a ground, muſt with all diligence ſeek to bring to his trees a little ſpring or pond, of which the trees may ſometimes find ſome reviving, and if you may not have any of thoſe, and have a gar<g ref="char:EOLhyphen"/>den who by it ſelfe is naught, the trees wil grow with thick roots, which hindereth the growing of them, and drieth them at length.</p>
+                  <p>Fourthly, the air is required, which muſt be agree<g ref="char:EOLhyphen"/>able to them, and of complexion to bear; for there be ſome trees that doe proſper in all aires, to wit, apple, and peare, cherry and plum-trees. Some will have a cold air, to wit, cheſnut-trees; and ſome a very warm aire, as the palme and pepper trees: therefore they be rare with us. That plant which hath theſe four things ſhall proſper: and if they want one or more of theſe four things, they will decay and their proſpe<g ref="char:EOLhyphen"/>ring periſh.</p>
+               </div>
+               <div type="section">
+                  <head>At what time trees ought to be planted and ſet.</head>
+                  <p>ALL kind of trees may be planted, tranſported, and cut in March, but it is better to turn them in October, for then the froſt hurteth them not ſo
+<pb n="3" facs="tcp:108292:3"/> much as at other times; for learned men ſay, that in dry Towns and warm Countries they plant in Octo<g ref="char:EOLhyphen"/>ber or November, and that in moiſt Towns and cold vallies, they plant in February or March: in none o<g ref="char:EOLhyphen"/>ther time may you plant or graffe. When you will plant or ſet againe wild ſtumps, if there be any thing broken at the root, cut it off. Every plant muſt be ſet two ſoot one from another, or at the leaſt one foot, eſpecially when they ſhould beare ſtrong fruites: likewiſe when thou wilt ſet ſtrong ſeeds, as nuts, al<g ref="char:EOLhyphen"/>monds and peaches. When a man will plant two ſtumps, ſo muſt they be of two yeare old, except the vine.</p>
+                  <p>Theſe things you muſt underſtand of thoſe plants or ſtumps which are planted with roots.</p>
+               </div>
+               <div type="section">
+                  <head>How the ſtumps and plants muſt be prepared and dreſſed, which you will plant.</head>
+                  <p>THe plant or ſprout you muſt cut round about, ſo that you leave the very end of it, and put it then into a hole, but if the ſtump be great, cut it clean off, and then put only the undermoſt part into a hole, long or ſhort as you will; but if you find two ſtumps grown together, you may cut the leſſer away. And above all things, you muſt take heed that the ſprout grow upright, and if it will not, you muſt con<g ref="char:EOLhyphen"/>ſtraine it, and tie it to a ſtick.</p>
+               </div>
+               <div type="section">
+                  <head>Here follow certaine inſtructions how the trees muſt be kept, and how you muſt labour them.</head>
+                  <p n="1">SOme trees will have a far ground, as Figge trees and Mulberrie trees, and ſome leane ground, but
+<pb n="4" facs="tcp:108292:4"/> all trees be in that point equall, that they will have in the top dry ground, and in the bottome moiſt earth.</p>
+                  <p n="2">2. In Harveſt you muſt uncover the roots of the trees ſo deep, that they may partly be ſeen, and lay dung upon them, which dung muſt be diſſolved of raine in the ground, that it may come to the roots, which mucking giveth good increaſe to the roots.</p>
+                  <p n="3">3. If the ground wherein the trees ſtand bee too ſandy, then mix among it faire and new lome; and if it bee too lomy, then mix amongſt it ſand in place of mucke, the which you muſt not only doe hard by the tree, but alſo four or five foot off from it round about the tree, according as the tree is in bigneſſe, or that the roots are large and great.</p>
+                  <p>Such diligence, giveth to the trees great help, for their nouriſhment and ſtrength is thereby renewed. Hereafter you ſhall underſtand, whereby to know the fruitfull ſoile.</p>
+                  <p n="4">4. In the fat ground, the ſtumps whereupon you wil graff, muſt be left long, but in lean ground ſhort.</p>
+                  <p n="5">5. The plants of trees from their youth, till three years muſt not be cut nor ſhred, but they may bee tranſported, and if they be too weak you may pricke ſticks next unto them.</p>
+                  <p n="6">6. Diligent regard muſt be taken, that no ſprouts ſpring out of the ſtump, which might take the nou<g ref="char:EOLhyphen"/>riſhment from the tree ſprouts, and thoſe boughes which ſpring from the root of the tree at the firſt planting.</p>
+                  <p n="7">7. When thou perceiveſt the young trees to wax weake, then uncover the roots and put other freſh ground to them.</p>
+                  <pb n="5" facs="tcp:108292:4"/>
+                  <p n="8">8. If the ground be neither too ſoft nor too hard, then may you chuſe all kind of ſtumps in February for to plant, when the green juice is diſperſed in the bark; but when the ground is too hard, then the ſwet holes or pores of the root doe remaine cloſed and ſtopped, ſo that they cannot draw to them their nou<g ref="char:EOLhyphen"/>riſhment, ſuch hardneſs of the ground or earth hin<g ref="char:EOLhyphen"/>dereth the aire and moiſtneſſe which commeth from beneath upward, for it cannot be pierced of the ſoft ſprouts, with the ſmall heat which is beneath, there<g ref="char:EOLhyphen"/>fore you muſt come to help them with a ſpade, for with a plough you will never come to an end, becauſe of the root.</p>
+                  <p n="9">9. There is great diligence to be taken for pre<g ref="char:EOLhyphen"/>ſerving of the trees, when they begin to grow great, to ſcrape from the barke all rudeneſſe which is done, when you take from them all ſuperfluity and ſprouts which come out of the tree. You may cut them in February.</p>
+                  <p n="10">10. It is good for the trees to muck them often, and moderatively to water their roots.</p>
+                  <p>Alſo to cleave the roots, and lay ſtones into them, to the end they may revive againe of the dri<g ref="char:EOLhyphen"/>neſſe which they have ſuffered, or of the barrenneſſe of the ground, or when the young planted trees for the great heat will periſh. Alſo when immoderate heat is, then you muſt help them with turning of the ground, and with watering, but the water wherewith you ſhould water them, muſt not be altogether freſh nor cold, or newly drawne out of the ſpring, but out of a ditch, pond, or well, or any other foule ditch wa<g ref="char:EOLhyphen"/>ter, or with ſpring water, which hath ſtood long in the Sunne, or put a little dung in the water, and ſtir
+<pb n="6" facs="tcp:108292:5"/> it once or twice well about, and the water will be fat wherwith water your trees. You may alſo keep them with ſhadowes and ſtraw from the heat: or elſe put (in great heat) fat green herbs at the ſtump, tempred with loame: ſome anoint the ſtumpe (toward the South or Mid-day) with chalke, ſome with oile, or with any other ointment that cooleth.</p>
+                  <p n="11">11. When you would tranſpoſe a plant, or have wilde ſtumps digged out to plant again, then marke the part which ſtandoth towards the South of Mid<g ref="char:EOLhyphen"/>day, and put it ſo againe when you graffe it.</p>
+               </div>
+               <div type="section">
+                  <head>How to keep plants, ſtumps, or trees, from the wild beaſts, that they hurt them not.</head>
+                  <p>WHere the path of the beaſt is free and reme<g ref="char:EOLhyphen"/>dileſſe, there muſt be put poles, and with thornes the ſame young trees muſt be incloſed.</p>
+               </div>
+               <div type="section">
+                  <head>That the Deeres ſpoile them not.</head>
+                  <p>TAke the piſſe of a Decre and anoint the Tree therewith.</p>
+               </div>
+               <div type="section">
+                  <head>That the Hares doe not hurt them.</head>
+                  <p>SPet in thy hand, and anoint the ſprouts there<g ref="char:EOLhyphen"/>with, and no Hare will hurt them.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:108292:5"/>
+               <head>Here follow ſome inſtructions of graffing.</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of the cutting of a tree for grafting</figDesc>
+                  </figure>
+               </p>
+               <div type="section">
+                  <p n="1">
+                     <seg rend="decorInit">F</seg>Irſt, you muſt know that imping, graffing, and ſetting, is all one thing.</p>
+                  <p>The imping ſprouts muſt be young and new, with great bodies and many eyes: for where many and great buds be, that is a token, that is of a ſtrong fruit.</p>
+                  <p n="2">2. The imping ſprouts muſt be broken off at the Sun riſing, although that thoſe of the other ſide bro<g ref="char:EOLhyphen"/>ken off grow likewiſe: yet thoſe of the other ſide are moſt naturall and temperate of heat: Some country clownes beleeve, that if you in cutting the ſprouts turne them upſide downe, that they will never grow right, but be crooked.</p>
+                  <p n="3">3. All graffing and imping is done by putting one
+<pb n="8" facs="tcp:108292:6"/> into another by a faſt binding, that the little ſprout may ſpread his boughs to the ſtump or tree, wherein it is graffed, that ſo it may become one tree.</p>
+                  <p n="4">4. Over-young imps (which are ſo weak that they will breake before they be put into the earth, or into the ſtump) are naught, and therefore they may not be imped or ſet.</p>
+                  <p n="5">5. When you impe upon a houſe or fruit tree, the fruit will be far better: But if you cut of a Garden tree a branch, and imp it into one of his own ſprouts, it will bring forth fruit of another taſte, forme, and big eſſe; for imping maketh all the diverſities in peares, apples, and other fruits.</p>
+                  <p n="6">6. It is far better to impe low in the ſtump, than in the top in the high branches: yet nevertheleſſe if you will make of wild apple trees garden trees, you may impe them upon the top.</p>
+                  <p n="7">7. In great trees which have a great bark, it is not ſo good to impe, for they take not to them ſo eaſily the veins of the roots which grow out of the young ſprouts, becauſe of their hardneſſe, and eſpecially when the imping ſprouts are too weak. Wherefore they which graffe trees muſt ſeek ſmall and young ſtumps, where in they finde much liquor and little hardneſſe, and which may endure the binding.</p>
+                  <p n="8">8. It is beſt imping or graffing when the liquor is in the bark, if you have a great tree upon the which you would impe and hath many branches, you may out them all off, and impe into the ſtumps all kind of boughs, ſuch as you pleaſe; but if the tree be over-old, ſo that her boughes be ranckled, and her moiſt<g ref="char:EOLhyphen"/>neſſe conſumed, then cut the tree clean off, and let the ſtump <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d a whole yeare; afterward take the
+<pb n="9" facs="tcp:108292:6"/> ſprouts which are ſprung out of that ſtumpe, and graffe them, and caſt the others away. Such a ſtump is like to bear, and therfore nouriſh as many ſprouts as you pleaſe: but if it be a wild ſtump, graft garden ſprouts upon it.</p>
+                  <p n="9">9. If you graffe a ſprout or bough upon a Haw<g ref="char:EOLhyphen"/>thorne tree, that ſame bough will grow great, and the ſtump will remaine ſmall, therefore he that will impe upon ſuch a tree, ſee he cut it off by the root, then will the imped ſprout and the ſtumpe grow all of one thickneſſe: but you muſt have ſtill regard that you impe kinde upon kinde, as apples upon apples, peares upon peares: for he that graffeth ſtrange upon ſtrange, as peares upon apples, and apples on peares, and ſuch like, although it be done often for pleaſures ſake, yet will it not laſt; for the naturall nouriſhment is ſo, that it will hardly nouriſh a ſtrange kinde of fruit.</p>
+                  <p n="10">10. The tree which is graffed in February, in his fruits grow no worms nor maggots.</p>
+                  <p n="11">11. When the imping ſprouts begin to proſper, and will not grow ſtreight and levell, then you muſt conſtrain them perforce, that they may grow order<g ref="char:EOLhyphen"/>ly. Furthermore you muſt have a care to keep the proſpering ſprouts well with ſticks from the wind, if they ſtand any thing high, and eſpecially when they have ſtood a year or two, and where they are pricked in the ſtump, it is moſt needfull, as ſhall af<g ref="char:EOLhyphen"/>ter appeare. And becauſe there be many and divers waies to graffe, and know how wild ſtumps and trees are to be made garden trees, we thought it good to ſet ſome of them here down.</p>
+               </div>
+               <div type="section">
+                  <pb n="10" facs="tcp:108292:7"/>
+                  <head>Divers faſhions and waies of graffing there be.</head>
+                  <p>HE that will extraordinarily graffe all manner of trees, he muſt know, that the more one tree is li<g ref="char:EOLhyphen"/>ker another, the better it will proſper.</p>
+                  <p>The firſt ſort of graffing is, when the ſprout is prickt between the bark and the wood of the ſtump; which muſt be done in May or Aprill, when the bark may eaſily be looſed from the tree, and is done after this ſort.</p>
+                  <p>Firſt take a ſtump or tree, and cut him off with a ſharp Saw, knife or ſuch like inſtrument, where he is ſmootheſt and cleareſt, and full of juice, and poliſh the place with the bark of the ſame tree which was cut off. Afterwardty the ſtump with a piece of bark, and then prick a hole between the barke of the tree with a prick of bone, elderwood or Iron, ſo that it cleave not, and then put in the place of the prick the ſprout, which you muſt have broken off a plaine and even tree, of a good kind, and one year old, which you ſhall know by this; every branch hath rinckled knots like the joint of a mans finger, cut it at one ſide un<g ref="char:EOLhyphen"/>der the knot, ſo that you touch not the heart of the tree, and at the other ſide you muſt ſoftly looſe the barke, that the ſproat may joyne very cloſe to the ſtump, then pull out the prick, and take the ſprout, and turn the green bark to the bark of the ſtumpe, ſo that it may ſtand ſtraight.</p>
+                  <p>The ſprout may be foure or five fingers, or eight at the moſt, high above the ſtump.</p>
+                  <p>Of this ſort of imping, you may ſee two, three, or more, according to the bigneſſe of the ſtump, or as
+<pb n="11" facs="tcp:108292:7"/> he can beare, provided alwaies that they ſtand at the leaſt the length of a finger one from another.</p>
+                  <p>Afterward tie it faſt (with bark) together, and put over it good muck, and tie over it a cloath, that no raine or aire may come between it and hurt it. This ſort of imping is commonly uſed in ſtumps, which are great and old trees, whoſe barke is thicke and ſtrong, as apple trees, pear trees, cherry-trees, and willow trees, on which are imped oftentimes apples, alſo on figge trees, and cheſtnut trees.</p>
+                  <p>Such grafting is alſo done in high ſtumps, and branches, which be great, but they muſt be well kept from the wind, that it doe not break them.</p>
+                  <p>After this ſort you may graft many ſorts and kinds of pears upon one tree, but if you bring peares upon apples, or apples upon pears ſtumps, it will not laſt long, as afore is ſaid.</p>
+                  <p>The firſt way of grafting proſpereth beſt, and hath a good continuance, there be many other ſorts of grafting, as followeth.</p>
+               </div>
+               <div type="section">
+                  <head>Another way of grafting is, when the ſtumps are clo<g ref="char:EOLhyphen"/>ven, and the ſprouts afterwards are put in, the which doe as followeth.</head>
+                  <p>TAke a young tree which is ſcant of the bigneſs of a finger, and cut it ſmooth and even, and cleave it in the midſt then take the ſprout which you will impe, and cut it three ſquare, and at the one ſide leave the barke uncut, and then turne the ſame bark outward at the ſtump; and tie it faſt as I have taught, that the winde nor raine hurt him not.</p>
+                  <div type="subsection">
+                     <head>Otherwiſe.</head>
+                     <p>When the ſtump is uncovered and clean burniſht
+<pb n="12" facs="tcp:108292:8"/> at the ſoft place, then tie him faſt, that he cleave no further than to the length of your ſprout, which you muſt graffe upon him, and then leave the prick in it, then make your ſprout pointed like a prick, ſo that the middle be not touched, then put it into the cleft, having cleanſed the hole firſt with the point of a knife, ſo that one bark may touch the other, and out<g ref="char:EOLhyphen"/>ward one wood another, to the end, the moiſture may have the more eaſier his courſe, then pull out the pricke, and that which remaines open and bare be<g ref="char:EOLhyphen"/>tween the cleft and the ſprout, that bind well every where with the bark of the tree, or with hard preſ<g ref="char:EOLhyphen"/>ſing with a little ſand, or with dung of an Oxe, or with waxe, or with a linnen cloth waſhed in waxe, that no raine, winde or worms may hurt it. This helpeth much to keep the moiſtneſſe in, which com<g ref="char:EOLhyphen"/>meth from the root, that it cannot breake out, but nouriſheth the better the new plant; but when the ſtumps are great, they be cleaved after two waies. The firſt is, that you cut or cleave the tree with a knife at one ſide only, even to the heart, and that you graft into it but one ſprout. The other is, that you cleave it all over, and that you prick or graft on every ſide one ſprout, or one alone, and leave the o<g ref="char:EOLhyphen"/>ther ſide without.</p>
+                     <p>When the ſtump is but a little bigger, then the ſprout muſt neceſſarily be cloven in two, and you muſt graft but one ſprout into it, as is ſaid in the be<g ref="char:EOLhyphen"/>ginning.</p>
+                     <p>This cleaving may be done in February, March, and Aprill, then it is good to cut them before they be greene, for to keepe them the better under the ground, in cold or moiſt places.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <pb n="13" facs="tcp:108292:8"/>
+                  <head>The third way of grafting.</head>
+                  <p>THis ſort of grafting is very ſubtill, witty, and ready; and is done as followeth.</p>
+                  <p>Go to a ſmooth apple or peare tree, in April, when the trees get liquor, and ſeeke a branch which hath green eyes, and ſee that the ſame be leſſe than your little finger, and teare it from the tree, and where you ſee that the green ſprouts will come off, there cut them off wholly, and cleanſe the middle thereof, that the little red at the wood may turne about, and draw it not off, untill you come unto another good peare or apple tree, and ſeek there another branch of the ſame bigneſſe that the other was, and cut it off, and take from it, likewiſe the red, as far as you will put them again, and look where the branches join, that they may well ſit together upon the top, and tie the ſame place gently and well with a little barke, be<g ref="char:EOLhyphen"/>hinde and before, that the water may not hurt them: in the firſt year it bringeth forth leaves and branches, in the ſecond floures, which you may breake off, for the ſprout is yet too tender, ſo that it may bear no fruit, and in the third yeare it bringeth floures and fruit, and by this meanes you may graft divers kinds of peares and apples upon one tree. I have likewiſe ſet ſuch ſprouts upon wild ſtumps, and they have proſpered.</p>
+               </div>
+               <div type="section">
+                  <head>The fourth way of grafting is,</head>
+                  <p>HOw buds are tranſported and bound upon ano<g ref="char:EOLhyphen"/>ther tree, like as a plaiſter is tied to a mans body: this ſort of grafting, is called in Latine <hi>Emplaſtrum.</hi> We read of ſuch a ſort of grafting which is called in Latine <hi>Abducellum,</hi> and it is much like unto this ſort, wherefore we will only ſpeake of it, being done after this ſort.</p>
+                  <pb n="14" facs="tcp:108292:9"/>
+                  <p>When you ſee upon a great fruitfull bough, a bud which will proſper without doubt, and wouldſt faine plant it upon another tree, take a ſharp knife, and lift the bark up two fingers breadth, that the bud be not hurt, then goe to another tree, upon the which you will graft, and put into a convenient place, a like hole into the bark, and put the ſame bud with the bark in<g ref="char:EOLhyphen"/>to it, and tie it with dung (or with a clout that hath lien in a dunghill) over the cut, that it may be kept from the outward damage of weather, and for an e<g ref="char:EOLhyphen"/>ſpeciall nouriſhment and keeping of the inner juice: then cut off the branches round about it, that the mo<g ref="char:EOLhyphen"/>ther may the better nouriſh the new ſonne; within twenty days after take away the band, ſo that you ſee that the ſtrange bud hath proſpered, and joyned him<g ref="char:EOLhyphen"/>ſelfe with the tree. This may be done in March, when the bark cometh eaſily from the tree. Alſo in April, May, and Iune, and yet ſhee proſpereth both before and after a time, when you may conveniently finde ſuch buds.</p>
+                  <p>This ſort of planting proſpereth beſt in a willow tree or ſuch like, which is pierced through, and is done after this ſort.</p>
+               </div>
+               <div type="section">
+                  <head>The fifth way.</head>
+                  <p>When you pierce a willow ſtick with a ſharp pier<g ref="char:EOLhyphen"/>cer, ſee that between every hole, be left the ſpace of one foot, and prick therein branches a little ſcra<g ref="char:EOLhyphen"/>ped, and put the ſtick into a ditch, ſo that the bran<g ref="char:EOLhyphen"/>ches ſtand upright, one part of the ſtick remaining o<g ref="char:EOLhyphen"/>ver the earth; and with in a year after take it out of the ditch, and cut the ſtick aſunder, ſo find you the bran<g ref="char:EOLhyphen"/>ches full of roots, and put every one into a hole in the ground, and 'tis fit the holes were ſtopped with lome, or with wax.</p>
+                  <pb n="15" facs="tcp:108292:9"/>
+                  <p>Some do take in March a freſh Beech tree, which is of a mans thickneſſe, and pierce him overthwart with maine and great holes and ſmall holes, till unto the lowermoſt barke, or quite through: then take ſprouts or boughes, which be as big and ſmall, that they may fit into the holes; and when you will put them into the Beech ſtump, you muſt ſcrape the up<g ref="char:EOLhyphen"/>permoſt barke off, untill the green, and no further: then the bough muſt remain into the Beech, the ſprouts muſt ſtand a foot, or ſomwhat leſſe aſunder, then keep your Beech ſtumps with the ſprouts in a freſh ground, and skant a foot deep, you muſt firſt maime the ſprouts, that they may not flouriſh; then the next March enſuing, dig it out with the ſprouts, and cut it aſunder with a ſaw, and every block which is cut off with its branch, you muſt ſet in a freſh ground, and ſo they will bring forth the fruit the ſame yeare.</p>
+               </div>
+               <div type="section">
+                  <head>The ſixth Way.</head>
+                  <p>This way teaches how to graffe, that they may bring forth fruit the firſt yeare, which do as follows.</p>
+                  <p>Pare an old ſtumpe of what kinde ſoever it be, the uppermoſt bark, till to the lower green barke, a ſpan long or ſomewhat leſſe, which do in Harveſt in the wane of the Moone, and anoint it with Oxe dung and earth, and tye it with bark, and after in March when trees are tranſpoſed from one place to another then cut the ſame branch from the tree, and put it into the ground, and it wil bring fruit the ſame yeer. I have ſeen that one hath prickt ſticks on <hi>Alballow</hi> eve, in the earth, and hath pulled them out again up<g ref="char:EOLhyphen"/>on <hi>Christmas</hi> eve, and put boughes in the holes, and they have proſpered and come out.</p>
+               </div>
+               <div type="section">
+                  <pb n="16" facs="tcp:108292:10"/>
+                  <head>The ſeventh.</head>
+                  <p>Pierce the top of a ſtump, which is not over ſmall, and draw a bark through it, and maime it with a knife, as far as it ſtandeth on the top, &amp; in eight days after, poure water upon it, that the top of the ſtump may cloſe. This muſt be done in harveſt, and in the March following cut it off from the tree, and bruiſe the top, and put it with the ſame earth in other ground.</p>
+               </div>
+               <div type="section">
+                  <head>The eighth Way.</head>
+                  <p>Will you graffe a tree that the fruit be without ſtones. Take a ſprout and graff it into a great ſtump, with the thicker and lower part of the ſprout, then take the upper or thinner end of the ſprout, and cut it alſo fit to be graffed, and turne it downeward, and graffe it into the ſaid ſtump; and when the ſprout of both ſides proſpereth, cut it in the midſt aſunder, ſo that which is grown right upward with the tree, the fruit of it hath ſtones, but that which was the top of the ſprout that groweth contrary, brings forth fruit without ſtones. And if ſo be the turned ſprout proſ<g ref="char:EOLhyphen"/>per, you muſt break off the other, to the end, that the turned ſprour doe not periſh, which you may try af<g ref="char:EOLhyphen"/>ter this ſort; for oftentimes it commeth and proſpe<g ref="char:EOLhyphen"/>reth, and many times it is periſhed and ſpoiled.</p>
+               </div>
+               <div type="section">
+                  <head>How Cherries are to be graffed, that they may come without ſtones.</head>
+                  <p>WIll you make that Cherries grow without ſtones? pare a little Cherry tree at one year old at the ſtump, and cleave it aſunder from the top to the root, which do in May, and make an Iron fit to draw the heart or marow from both ſides of the tree;
+<pb n="17" facs="tcp:108292:10"/> then tye it faſt together, and anoint it with Ox dung or lome, and within a yeare after, when it is growne and healed, goe to another little tree which is of the ſame kind, and which hath not yet brought fruit, and graffe that ſame on the little tree, ſo ſhall that ſame tree bring his fruit without ſtones.</p>
+               </div>
+               <div type="section">
+                  <head>How a Vine is to be planted upon a Cherry tree.</head>
+                  <p>PLant a Vine tree next unto a Cherry tree, and when it groweth high, then pierce a hole into the Cherry tree right above it, that the hole be no big<g ref="char:EOLhyphen"/>ger than the Vine is thick, and pare the upper bark of the Vine branch till unto the green, ſo farre as it muſt go through the tree, and look well to it that the branch of the Vine be not bruiſed, and wel anointed. You muſt not ſuffer any ſprouts to come out of the Vine from the ground up, but unto the tree only, that which commeth out of the other ſide, let that ſame grow and bring fruit. Then the next March following if the Vine proſper and grow faſt into the tree, then cut the Vine from the tree off, and anoint the place with diligence, and it will bring fruit.</p>
+               </div>
+               <div type="section">
+                  <head>How a grape of a Vine may be brought into a glaſſe.</head>
+                  <p>WIll you make that a grape grow into a nar<g ref="char:EOLhyphen"/>row glaſſe? take the glaſſe before the grape caſt her bloud, or while ſhe is little, and put her into the glaſſe, and ſhee will ripen in the glaſſe.</p>
+               </div>
+               <div type="section">
+                  <head>To graffe Medlers on a Peare tree.</head>
+                  <p>IF you graffe the branch of a Medler upon a Peare tree, the Medlers will be ſweet and durable, ſo that you may keep them longer than otherwiſe.</p>
+               </div>
+               <div type="section">
+                  <pb n="18" facs="tcp:108292:11"/>
+                  <head>How apples or other fruit may be made red.</head>
+                  <p>If you will graft upon a wild ſtump, put the ſprouts in Pikes bloud, and then graft them, and the fruit will be red.</p>
+                  <div type="subsection">
+                     <head>Otherwiſe.</head>
+                     <p>Take an apple branch, and graft it upon an alder ſtump, and the apples will be red. Likewiſe if you graft them upon cherry trees.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>Of the Quince tree.</head>
+                  <p>THe Quince tree commeth not of any grafting, but you muſt plucke him out by the roots, and plant him againe into a good ground or earth.</p>
+                  <div type="subsection">
+                     <head>Otherwiſe.</head>
+                     <p>The Quince tree requireth a dry and ſweet ground, and he proſpereth therein.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>How to make that Quinces become great.</head>
+                  <p>TAke a branch of a Quince tree when it hath caſt his bloud where a Quince groweth at, and put it into a pot, and ſet it into the ground, and let the Quince grow in it, and it will be very great.</p>
+                  <p>And if you will ſhew ſome cunning therewith, cauſe to be made a pot which hath a mans face in the bottome of it, or any other picture whatſoever, and when the quinces have bloſſomed, then bow the branch, and put the Quince into the pot. and ſhe will grow very big, in the ſhape of a man, which may alſo be done in Pompons, Mellons, Cucumbers, and other earthly fruites.</p>
+               </div>
+               <div type="section">
+                  <head>The concluſion of graffing.</head>
+                  <p>OVT of all the forewritten cauſes (gentle reader) is evidently ſhewne, that although every plan<g ref="char:EOLhyphen"/>ting or grafting be better from like to like, and from
+<pb n="19" facs="tcp:108292:11"/> kinde to kinde, yet nevertheleſſe it agreeth alſo with contrary kinds, as now is ſaid wherefore he that will exerciſe and uſe the ſame, and try divers kindes, he may ſee and make many wonders.</p>
+               </div>
+            </div>
+            <div type="part">
+               <div type="section">
+                  <head>What joy and fruit commeth of trees.</head>
+                  <div type="subsection">
+                     <head>The firſt fruit.</head>
+                     <p>THe firſt is, that you plant divers &amp; many kinds: for every houſholder who hath care to his nouriſhment, with all diligence cauſeth oftentimes, ſuch trees to be brought from forrein Countries.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>The ſecond.</head>
+                     <p>The ſecond is, when the trees be planted and ſat orderly and pleaſantly, they give no ſmall pleaſure to a man, therefore every one ſhould cut his trees or<g ref="char:EOLhyphen"/>derly, and he that cannot, ſhould procure other men to doe it, which know how to doe it.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>The third is of well ſmelling and ſpiced fruit.</head>
+                     <p>Cleave a tree aſunder, or a branch of a fruitfull tree, to the heart or pith, and cut a piece out of it, and put therein poundred ſpices, or what ſpice ſoever you will, or what colour you will deſire, and tye a barke hard about it, and anoint it with lome and Ox dung, and the fruit will gett both the ſavour and co<g ref="char:EOLhyphen"/>lour according to the ſpice you have put in it.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>How ſowre fruits be made ſweet.</head>
+                  <p>WHich tree beareth ſowre fruites, in the ſame pierce a hole a foot or ſomewhat leſſe above the root, and fill that with honey, and ſtop the hole with a haw-thorne branch, and the fruit will bee ſweet.</p>
+               </div>
+               <div type="section">
+                  <pb n="20" facs="tcp:108292:12"/>
+                  <head>How trees ought to be kept when they wax old.</head>
+                  <p>WHen trees loſe their ſtrength and vertue for age, and the branches break off for the weight of the fruit, or when they wax barren for lack of moiſture, that they beare not fruit every year, but ſcant every other or third yeare, you muſt cut ſome of his heavy branches, which he can little nouriſh, which is done to the end he might keep ſome moiſt<g ref="char:EOLhyphen"/>neſſe to himſelfe for his nouriſhment, or elſe the moiſtneſſe would goe all into his branches.</p>
+                  <p>Whereby you may mark whether you muſt give them, or take away from them branches, according to their nouriſhment, and as the earth where ſhee ſtandeth can abide, that is, you muſt leave them ſo much as will nouriſh them, and no more, which if you doe not, the trees will bring ſo little fruit, that your labour will not be recompenſed.</p>
+                  <p>Which cutting of trees may be done from the be<g ref="char:EOLhyphen"/>ginning of November till to the end of March, in warme countries. But it is more naturall to be done from the time that the leaves fall, till the time that they begin to grow green againe, except where the froſt is very great and ſharp.</p>
+               </div>
+               <div type="section">
+                  <head>How trees muſt be kept from divers ſickneſſes, and firſt how to keep them from the Canker.</head>
+                  <p>WHen the Canker commeth in any tree, he becommeth barren and dry, for it mounteth from the ſtumps into the top, and when it taketh a peare or apple tree, the bark will be black and barren thereabouts, which muſt be cut off with a knife, to the freſh wood, and then the place muſt be anointed with Oxe dung, and tied with barke, ſo that neither wind nor rain may hurt it.</p>
+               </div>
+               <div type="section">
+                  <pb n="21" facs="tcp:108292:12"/>
+                  <head>Againſt worms which muſt be driven out of the tree.</head>
+                  <p>IT happeneth oftentimes, that the ſuperfluities of moiſtneſſe in the trees breaketh out like as ſome<g ref="char:EOLhyphen"/>times to a man or beaſt between the fleſh and skin: and when that beginneth to rot, wormes grow out of it, which takes his ſtrength away: wherefore mark,</p>
+                  <p>When the barke of a tree at any time ſwels, cut it preſently open that the poiſon may runne out, and if you find already wormes in it, draw them out with a little Iron hook.</p>
+               </div>
+               <div type="section">
+                  <head>How the wormes are to be killed, if they be al<g ref="char:EOLhyphen"/>ready grown into the tree.</head>
+                  <p>IF you will kill the worms which grow in the tree, take Pepper, Lawrell, and Incenſe, and mingle all well together with good wine, and pierce a hole into the tree downeward, to the pith or heart of the tree, and poure this mixture into it, and ſtop it with a hawthorne, and the worms will dye.</p>
+                  <div type="subsection">
+                     <head>Otherwiſe.</head>
+                     <p>Take afhes or duſt and mingle it with ſallet oyle, anoint the trees therewith, and the worms will dye.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Otherwiſe.</head>
+                     <p>Take powdered Incenſe when you graffe, and bring it between the barke of the ſtump, which you will graffe, and no wormes will eat the fruit.</p>
+                     <p>When a tree in many places becommeth change<g ref="char:EOLhyphen"/>able becauſe of wormes, or ſuperfluous humours, Cleave the tree at ſome end from the top of the ſtump to the earth, that all the foule liquors may come out and dry. Alſo when a tree becomes ſick becauſe of evill humours or fault of ground, ſo that <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> becommeth worme-eaten, or brings no fruit, take
+<pb n="22" facs="tcp:108292:13"/> the earth away from the root, and put other ſweeter in the place, and pierce a great hole in the ſtump, and put therein a pin of Oake, and it helpeth.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>A remedy againſt Caterpillers.</head>
+                  <p>ALL kind of Caterpillers which eat the green, and bloſſomes of the tree, doe hurt them very much, ſo that thereafter may come no fruit.</p>
+                  <p>Therefore their eggs which lye hidden, as it were in a cobwebbe, muſt diligently be ſearched, and bur<g ref="char:EOLhyphen"/>ned from the boughes, before they bring forth other Caterpillars, which doe in December, Ianuary, and February.</p>
+                  <p>Some were wont to break them off, and tread them with their feet, but therewith they be not wholly kil<g ref="char:EOLhyphen"/>led. The fire conſumeth all things, and therefore it is beſt to burne them.</p>
+               </div>
+               <div type="section">
+                  <head>Againſt the Piſmires or Ants, when they will hurt the young trees.</head>
+                  <p>CVT the leaves off which are eaten or poiſoned of the Ants or Piſmires, and where there is any thinge made uncleane in the top of the tree, of thoſe little worms, that rub inpieces with your hands, that it may not ſtain the other leaves, and that the young ſprouts may grow up without any hinderance.</p>
+               </div>
+               <div type="section">
+                  <head>How to keep the Piſmires from the trees.</head>
+                  <p>FIrſt make a juice of an herbe, called <hi>Portabaca,</hi> and mix it with vineger, and ſprinkle the ſtump ther<g ref="char:EOLhyphen"/>with, or anoint the ſtumpe with wine dregs. Some take a little weak pitch, but very thin, that it may not hurt the tree.</p>
+               </div>
+               <div type="section">
+                  <pb n="23" facs="tcp:108292:13"/>
+                  <head>Another Inſtruction.</head>
+                  <p>Take a little bundle of cotton, wooll, flax, or towe, and lay it about the ſtump, and tie likewiſe a bundle above, about the ſtump, and draw it out a little, and the Piſmires can do no hurt: or put about the ſtump bird-lime.</p>
+               </div>
+               <div type="section">
+                  <head>In what time of the harveſt the fruit muſt be gathered.</head>
+                  <p>THe Fruits are not altogether at one time gathe<g ref="char:EOLhyphen"/>red, for they are not ripe all at once, as ſome pears which ſhew the ripeneſſe by the colour, thoſe ſhould be gathered in Summer, and if you let them ſtand too long, they will not laſt.</p>
+                  <p>Peares which are ripe in harveſt, thoſe may be ga<g ref="char:EOLhyphen"/>thered in <hi>October,</hi> when the weather is cleare and dry: in harveſt in the increaſe of the Moon, Fruits may be gathered.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>A ſhort Inſtruction very profitable and neceſſary for all thoſe that delight in Gardening, to know the times and ſeaſons when it is good to ſow and replant all manner of ſeeds.</head>
+               <list>
+                  <item>CAbbages muſt be ſowne in <hi>February, March,</hi> or <hi>April,</hi> at the waning of the Moon, and replan<g ref="char:EOLhyphen"/>ted alſo in the decreaſe thereof.</item>
+                  <item>Cabbage, Lettuce, in <hi>February, March,</hi> or <hi>Iuly,</hi> in an old Moon.</item>
+                  <item>Onyons and Leeks muſt be ſowne in <hi>February</hi> or <hi>March,</hi> at the waning of the Moon.</item>
+                  <pb n="24" facs="tcp:108292:14"/>
+                  <item>Beets muſt be ſown in February, or March, in a full moone.</item>
+                  <item>Coleworts white and green in February, or March, in an old moone, it is good to replant them.</item>
+                  <item>Parſneps muſt be ſown in February, April or Iune, alſo in an old moone.</item>
+                  <item>Radiſh muſt be ſown in February, March, or June, in a new moon.</item>
+                  <item>Pompions muſt be ſown in February, March, or Iune, alſo in a new moone.</item>
+                  <item>Cucumbers and Mellons muſt be ſown in Febru<g ref="char:EOLhyphen"/>ary, March or June, in an old moone.</item>
+                  <item>Spinage muſt be ſown in February or March, in an old moone.</item>
+                  <item>Parſley muſt be ſowne in February or March, in a full moone.</item>
+                  <item>Fennell and Anniſſeed muſt be ſowne in February or March, in a full moone.</item>
+                  <item>White Cycory muſt be ſown in February, March, July or Auguſt, in a full moon.</item>
+                  <item>Carduus Benedictus muſt be ſowne in February, March or May, when the moone is old.</item>
+                  <item>Baſill muſt be ſowne in March, when the moon is old.</item>
+                  <item>Purſlane muſt be ſown in February or March, in a new moone.</item>
+                  <item>Margeram, Violets and Time, muſt be ſowne in February, March or Aprill, in a new moone.</item>
+                  <item>Floure-gentle, Roſemary and Lavender, muſt be ſowne in February or Aprill, in a new moone.</item>
+                  <item>Rocket and Garden creſſes, muſt be ſowne in Fe<g ref="char:EOLhyphen"/>pruary in a new moon.</item>
+                  <pb n="25" facs="tcp:108292:14"/>
+                  <item>Savell muſt be ſowne in February or Match, in a new moone.</item>
+                  <item>Saffron muſt be ſown in March, when the moon is old.</item>
+                  <item>Coriander and Borage muſt be ſown in February or March, in a new moon.</item>
+                  <item>Hartshorne and Samphire muſt be ſowne in Fe<g ref="char:EOLhyphen"/>bruary, March or Aprill, when the moon is old.</item>
+                  <item>Gilly-flowers, Harts-eaſe, and Wall-flowers muſt be ſown in March or Aprill, when the moon is old.</item>
+                  <item>Cardons and Artochokes muſt be ſown in Aprill or March when the moon is old.</item>
+                  <item>Chickweed muſt be ſown in February or March, in the full of the moone.</item>
+                  <item>Burnet muſt be ſown in February or March, when the moone is old.</item>
+                  <item>Double Marigolds muſt be ſowne in February or March, in a new moone.</item>
+                  <item>Iſop and Savorie muſt be ſowne in March, when the moone is old.</item>
+                  <item>White Poppy muſt bee ſowne in February or March, in a new moone.</item>
+                  <item>Palma Chriſti muſt be ſowne in February, in a new moone.</item>
+                  <item>Sparages and Sperage is to be ſowne in February, when the moone is old.</item>
+                  <item>Larks foot muſt be ſowne in February, when the moone is old.</item>
+               </list>
+               <p>Note that at all times and ſeaſons, Lettuce, Radiſh, Spinage and Paſeneps may be ſowne.</p>
+               <p>Note alſo, from cold are to be kept Coleworts, Cabbage, Lettuce, Baſill, Cardons, Artochokes, and Colefloures.</p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:108292:15"/>
+               <head>Worthy remedies and ſecrets availing againſt the ſtroying of Snailes, Cankerwormes, the long bodied Moths, Garden-fleas, Earth-wormes, and Moles.</head>
+               <div type="section">
+                  <p>
+                     <hi>AFricanus,</hi> ſingular among the Greek writers of husbandry, reporteth, that Garden-plants and roots may well be purged and rid of the harmefull wormes, if their dennes or deep holes be ſmoaked, the winde aiding, with the dung of the Cow or Oxe burned.</p>
+                  <p>That worthy <hi>Pliny</hi> in his firſt booke of Hiſtories writeth, that if the Owner or Gardener ſprinckleth the pure mother of the oyle Olive, without any ſalt in it, doth alſo drive the wormes away, and defend the Plants and Herbs from being gnawne of them. And if they ſhall cleave to the roots of the plants, through malice or breeding of the dung, yet this weedeth them clean away. The plants or herbs will not after be gnawne or harmed by Garden-fleas, if with the naturall remedy, as with the herbe Rocket, the Gardener ſhall beſtow his beds in many places.</p>
+                  <p>The Coleworts and all pot-herbs are greatly de<g ref="char:EOLhyphen"/>fended from the gnawing of the Garden-fleas, by Radiſh growing among them. The eager or ſharp vineger doth alſo prevaile, tempered with the juice of Henbane, and ſprinkled on the garden fleas. To theſe, the water in which the herbe <hi>Nigella Romana</hi> ſhall be ſteeped for a night, and ſprinkled on the plants, as the Greek <hi>Pamphilus</hi> reporteth, doth alike prevaile againſt the garden fleas.</p>
+                  <p>
+                     <hi>Paladius Rutilius</hi> reporteth, that the noiſome ver<g ref="char:EOLhyphen"/>mine or creeping things will not breed of the Pot-herbes,
+<pb n="27" facs="tcp:108292:15"/> if the Gardener ſhall before the committing to the earth, dry all the ſeeds in the skin of the Tor<g ref="char:EOLhyphen"/>toiſe, or ſow the herbe Mint in many places of the Garden, eſpecially among the Coleworts. The bitter Fitch and Rocket (as I before uttered) beſtowed a<g ref="char:EOLhyphen"/>mong the pot-herbs, ſo that the ſeeds be ſowne in the firſt quarter of the Moon, doe greatly availe us. Alſo the Canker and Palmer wormes, which in many pla<g ref="char:EOLhyphen"/>ces work great injury both to the Gardens and vines, may the owner or Gardener drive away with the fig-tree aſhes ſprinckled on them and the herbs.</p>
+                  <p>There be ſome which ſprinckle the plants and herbes made with the lee of the fig-tree aſhes, but it deſtroyes the wormes, to ſtrew (as experience repor<g ref="char:EOLhyphen"/>teth) the aſhes alone on them.</p>
+                  <p>There be others which rather will to plant or ſow that big onyon, named in Latine <hi>Scilla</hi> or <hi>Squilla</hi> here and there in beds, or hang them in ſundry places of the Garden.</p>
+                  <p>Others alſo will to ſixe River Creſſes with nailes in many places of the garden, which if they ſhall yet withſtand or contend with all theſe remedies, then may the Gardener apply to exerciſe this deviſe, in taking the Ox or Cow urine, and the mother of oyle Olive, which after the well mixing together, and heating over the fire, the ſame be ſtirred about untill it be hot, and when through cold, this mixture ſhall be ſprinckled on the pot-herbs and trees, doth mar<g ref="char:EOLhyphen"/>vellouſly prevaile, as the skilfull <hi>Anatolius</hi> of experi<g ref="char:EOLhyphen"/>ence reporteth.</p>
+                  <p>The worthy <hi>Paladias Rutilius</hi> reporteth, that if the owner or Gardener burne great bundles of the Gar<g ref="char:EOLhyphen"/>licke blades (without heads) dried, through all the
+<pb n="28" facs="tcp:108292:16"/> allies of the Garden, and unto theſe the dung of Backes added, that the ſavour of the ſmoke (by the helpe of the wind) may be driven to many places, eſ<g ref="char:EOLhyphen"/>pecially to thoſe where they moſt abound and ſwarm, and the Gardener ſhall ſee ſo ſpeedy a de<g ref="char:EOLhyphen"/>ſtruction, as is to be wondred at.</p>
+                  <p>The worthy <hi>Pliny</hi> of great knowledge, reporteth that theſe may be driven from the pot-herbes, if the bitter Fitch ſeeds be mixed and ſown together with them, or the branches of the trees, Creviſes hanged up by the hornes in many places, doth like prevaile. Theſe alſo are letted-from increaſing, yea, they in heaps preſently gathered are deſtroied, as the <hi>Greeks</hi> report of obſervation, if the Gardener by taking cer<g ref="char:EOLhyphen"/>taine Palmer or Canker-wormes out of the Garden next joyning, ſhall ſeeth them in water with Dill, and the ſame being through cold, ſhall ſprinckle on the herbes and trees, that the mixture may wet and ſoke through the neſts, even unto the young ones, cleaving together, that they may taſte thereof, will ſpeedily diſpatch them. But in this doing, the Gar<g ref="char:EOLhyphen"/>dener muſt be very wary, and have an attentive eye, that none of the mixture fall on his face or hands.</p>
+                  <p>Beſides theſe, the owner or Gardener may uſe this remedy certain, and eaſily prepared, if about the big armes of trees, or ſtumps of the herbs, he kindle and burn the ſtronger lime and brimſtone together. Or if the owner make a ſmoake with the Muſhromes, growing under the Nut tree, or burne the hoofs of Goats, or the gum <hi>Galbanum,</hi> or elſe make a ſmoak with the Harts horne, the winde aiding, by blowing towards them.</p>
+                  <p>The husbandmen and gardeners in our turne have
+<pb n="29" facs="tcp:108292:16"/> found out this eaſie practiſe, being now common e<g ref="char:EOLhyphen"/>very where: which is on this wiſe, that when theſe af<g ref="char:EOLhyphen"/>ter-ſhowres of rain are cropen into the warm ſun, or into places ſtanding againſt the Sunne, early in the morning ſhake either their fruits and leaves of the pot-herbes, or the boughes of the trees, for theſe be<g ref="char:EOLhyphen"/>ing yet ſtiffe, through the cold of the night, are pro<g ref="char:EOLhyphen"/>cured of the ſame, the lighter and ſooner to fall, nor able after to recover up againe, ſo that the Palmer worms thus lying on the ground, are then in a rea<g ref="char:EOLhyphen"/>dineſſe to be killed of the Gardener.</p>
+                  <p>If the owner mind to deſtroy any other creeping things noyous to herbes and trees, (which <hi>Paladius</hi> and <hi>Rutilius</hi> name, both herb and Leek-waſters) then let him hearken to this invention and deviſe of the Greek <hi>Dyophanes,</hi> who willeth to purchaſe the maw of a Wether ſheep new killed, and the ſame as yet full of his excrementall filth, which lightly cover with the earth in the ſame place, where theſe moſt haunt in the Garden, and after two dayes ſhall the Gardiner find there, that the mothes with long bo<g ref="char:EOLhyphen"/>dies, and other creeping things will be gathered in divers companies to the place right over it, which the owner ſhall either remove and carry further, or dig and bury very deep in the ſame place, that they may not after ariſe and come forth, which when the Gardener ſhall have exerciſed the ſame but twice or thrice, he ſhall utterly extinguiſh, and quite deſtroy all the kindes of creeping things that anoy and ſpoil the Garden plants.</p>
+                  <p>The husbandmen in <hi>Flanders</hi> arme the ſtockes, and compaſſe the bigger armes of their trees, with wiſps of ſtraw handſomely made and faſtened or
+<pb n="30" facs="tcp:108292:17"/> bound about, by which the Palmer wormes are con<g ref="char:EOLhyphen"/>ſtrained to creep up to the tops of the trees, and there ſtaid, ſo that, (as it were by ſnares and engines laid) theſe in the end are driven away, or thus in their way begun, are ſpeedily or ſoone after procured to turne backe againe; As unto the remedies of the Snailes particularly belongs. Theſe may the Gardener like<g ref="char:EOLhyphen"/>wiſe chaſe from the kitchin herbs, if he either ſprin<g ref="char:EOLhyphen"/>ckle the new mother of the oyle olive, or ſoot of the chimney on the herbs, as if he beſtowed the bitter ſitch in beds among them, which alſo availes againſt other noiſome worms, and creeping things, as I afore uttered, that if the Gardener would poſſeſſe a greene and delectable Garden, let him then ſprinckle dili<g ref="char:EOLhyphen"/>gently all the quarters, beds, and borders of the Gar<g ref="char:EOLhyphen"/>den, with the mixture of water and powder of Fenni<g ref="char:EOLhyphen"/>greeke tempered together, or ſet upright in the mid<g ref="char:EOLhyphen"/>dle of the Garden, the whole bare head without the fleſh of the unchaſte Aſſe, as I afore wrote.</p>
+               </div>
+               <div type="section">
+                  <head>Excellent inventions and helps againſt the Garden-Moles.</head>
+                  <p>THe skilfull <hi>Paxanus</hi> hath left in writing, that if the Gardener ſhould make hollow a big nut, or bore a hollow hole into ſome ſound piece of wood being narrow, in filling the one or the other with Roſin, Pitch, Chaffe and Brimſtone, of each ſo much as ſhall ſuffice to the filling of the Nut, or hollow hole in the wood, which thus prepared in a readi<g ref="char:EOLhyphen"/>neſſe, ſtop every where with diligence, all the goings forth, and breathing holes of the Mole, that by thoſe the fuming ſmoke in no manner may iſſue out, yet
+<pb n="31" facs="tcp:108292:17"/> ſo handle the matter, that one mouth and hole bee only left open, and the ſame ſo large, that well the nut or veſſell kindled within, may be laid within the mouth of it, whereby it may take the wind of the one ſide, which may ſo ſend in the ſavour both of the ro<g ref="char:EOLhyphen"/>ſin and brimſtone into the hollow tombe, or reſting place of the Mole; by the ſame practiſe ſo worke-manly handled, by filling the holes with the ſmoak, ſhall the owner or Gardener either drive quite away all the Moles in the ground, or finde them in a ſhort time dead.</p>
+                  <p>There be ſome that take the white Neeſewort, or the rinde of <hi>Cynocrambes</hi> beaten and farced, and with Barley meale and egs finely tempered together, they make both Cakes and Paſties wrought with wine and milk, and thoſe they lay with in the Moles den or hole.</p>
+                  <p>
+                     <hi>Albertus</hi> of worthy memory reporteth, that if the owner or Gardener cloſeth or diligently ſtoppeth the mouths of the Moleholes, with the garlicke, ony<g ref="char:EOLhyphen"/>on, or leek, it ſhall either drive the Moles away; or kil them through the ſtrong ſavour ſtinking or brea<g ref="char:EOLhyphen"/>thing into them.</p>
+                  <p>Many there be, that to drive away theſe harmfull Moles, doe bring up young Cats in their Garden ground, and make tame Weaſels, to the end, that ei<g ref="char:EOLhyphen"/>ther of theſe through the hunting of them, may ſo drive away this peſtiferous anoyance, being taught to watch at their ſtrait paſſages, and mouths of the holes comming forth.</p>
+                  <p>Others there be alſo, which diligently fill and ſtop up their holes with the red Okare or Ruddell, and juice of the wild Cucumber, or ſow the ſeeds of
+<pb n="32" facs="tcp:108292:18"/> 
+                     <hi>Palma Chriſti,</hi> being a kind of <hi>Satyrion,</hi> in beds, through which they will not after caſt up, nor tarry thereabout.</p>
+                  <p>But ſome exerciſe this eaſie practiſe, in taking a live Mole, and burning the pouder of brimſtone a<g ref="char:EOLhyphen"/>bout him, being in a deep earthen pot, through which he is procured to cry, all others in the meane time as they report, are moved to reſort thither.</p>
+                  <p>There are ſome beſides, which lay ſilke ſnares at the mouth of their holes.</p>
+                  <p>To the ſimple Husbandmen may this eaſie pra<g ref="char:EOLhyphen"/>ctiſe of no coſt ſuffice, in ſetting downe into the earth, a ſtiffe rod or green branch of the Elder tree.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustrations">
+            <pb facs="tcp:108292:18"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of the grafting of trees, with diagram of a garden tree plot</figDesc>
+               </figure>
+            </p>
+            <pb n="34" facs="tcp:108292:19"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of various tools for gardening and grafting</figDesc>
+               </figure>
+            </p>
+            <pb n="35" facs="tcp:108292:19"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a borderless knot or garden plot with lines</figDesc>
+                  <head>A Direction to ſet or lay your lines or thread to make or draw a ſimple Knot, without a border.</head>
+                  <p>Your muſt leave your Lines as they be firſt ſet, untill your Knot be altogether finiſhed or done.</p>
+               </figure>
+            </p>
+            <pb n="36" facs="tcp:108292:20"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a borderless knot or garden plot with lines</figDesc>
+                  <head>The Manner or Ordering to ſet the thread or line upon another manner of Knot.</head>
+               </figure>
+            </p>
+            <pb n="37" facs="tcp:108292:20"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a borderless knot or garden plot with lines</figDesc>
+                  <head>A Direction to faſten your Lines to make another manner of Knot.</head>
+               </figure>
+            </p>
+            <pb n="38" facs="tcp:108292:21"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a plain knot or garden plot without lines</figDesc>
+                  <head>A plaine Knot without Lines.</head>
+               </figure>
+            </p>
+            <pb n="39" facs="tcp:108292:21"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a plain knot or garden plot without lines</figDesc>
+                  <head>A plaine Knot without Lines.</head>
+               </figure>
+            </p>
+            <pb n="40" facs="tcp:108292:22"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a plain knot or garden plot without lines</figDesc>
+                  <head>Another plaine Knot without Lines.</head>
+               </figure>
+            </p>
+            <pb n="41" facs="tcp:108292:22"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a plain knot or garden plot without lines</figDesc>
+                  <head>Another.</head>
+               </figure>
+            </p>
+            <pb n="42" facs="tcp:108292:23"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a plain knot or garden plot without lines</figDesc>
+                  <head>Another.</head>
+               </figure>
+            </p>
+            <pb n="43" facs="tcp:108292:23"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a plain knot or garden plot without lines</figDesc>
+                  <head>Another.</head>
+               </figure>
+            </p>
+            <pb n="44" facs="tcp:108292:24"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a plain knot or garden plot without lines</figDesc>
+                  <head>Another.</head>
+               </figure>
+            </p>
+            <pb n="45" facs="tcp:108292:24"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a plain knot or garden plot without lines</figDesc>
+                  <head>Another.</head>
+               </figure>
+            </p>
+            <pb n="46" facs="tcp:108292:25"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a plain knot or garden plot without lines</figDesc>
+                  <head>Another.</head>
+               </figure>
+            </p>
+            <pb n="47" facs="tcp:108292:25"/>
+            <p>
+               <figure>
+                  <figDesc>diagram showing a method for fastening lines to draw a knot or garden plot</figDesc>
+                  <head>A Direction to faſten Cords or Lines to draw a Knot with a Border; as alſo to make a Border of Beds parted in the midſt.</head>
+               </figure>
+            </p>
+            <pb n="48" facs="tcp:108292:26"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a bordered knot or garden plot</figDesc>
+                  <head>A Direction of the Cords faſtned upon the Border, with a Knot in the midſt.</head>
+               </figure>
+            </p>
+            <pb n="49" facs="tcp:108292:26"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a bordered knot or garden plot</figDesc>
+                  <head>A Border with a Knot in the midſt thereof.</head>
+               </figure>
+            </p>
+            <pb n="50" facs="tcp:108292:27"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a bordered and divided knot or garden plot</figDesc>
+                  <head>A Border or Knot divided or parted, con<g ref="char:EOLhyphen"/>taining five ſmall Knots.</head>
+               </figure>
+            </p>
+            <pb n="51" facs="tcp:108292:27"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a bordered and divided knot or garden plot</figDesc>
+                  <head>The forme of the Lines ſet upon the Knot, whoſe Squares or Beds are parted.</head>
+               </figure>
+            </p>
+            <pb n="52" facs="tcp:108292:28"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a bordered and divided knot or garden plot</figDesc>
+                  <head>A Border of Beds or Squares parted; and the midſt thereof.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:108292:28"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a maze garden plot</figDesc>
+                  <head>A Maze.</head>
+               </figure>
+            </p>
+            <pb n="54" facs="tcp:108292:29"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of a garden tree plot with lake</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:108292:29"/>
+         </div>
+      </back>
+   </text>
+</TEI>
